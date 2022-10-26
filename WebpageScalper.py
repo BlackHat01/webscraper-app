@@ -30,4 +30,6 @@ price=a.find('div', attrs={'class':'_1vC4OE _2rQ-NK'})
 rating=a.find('div', attrs={'class':'hGSR34 _2beYZw'})
 products.append(name.text)
 prices.append(price.text)
-ratings.append(rating.text) 
+ratings.append(rating.text)
+
+# Corey made this change here
